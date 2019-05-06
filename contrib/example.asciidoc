@@ -1,0 +1,20 @@
+////
+Source: https://github.com/susytech/SIPs/blob/master/SIPS/sip-20-token-standard.md
+License: CC0
+Added By: @aantonop
+////
+
+
+= The SRC20 Token Standard
+
+The SRC20 standard allows for the implementation of a standard API for tokens within smart contracts. This standard provides basic functionality to transfer tokens, as well as allow tokens to be approved so they can be spent by another on-chain third party. It is documented in https://github.com/susytech/SIPs/blob/master/SIPS/sip-20-token-standard.md[SIP-20 Token Standard]
+
+== What Are Tokens?
+
+Tokens are abstractions that represent ownership, access or value...
+
+== Known Problems with SRC20 Tokens
+
+== Additional Standards (SRC223)
+
+=== Rationale

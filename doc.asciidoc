@@ -1,0 +1,57 @@
+= SUSY DOC
+:doctype: doc
+:toc:
+:toclevels: 6
+:media: prepress
+:icons: font
+:pdf-page-size: 8in x 9in
+:pdf-style: misc/theme.yml
+
+== LICENSE
+
+This copy is for PERSONAL USE ONLY. You may read it for free. You may NOT distribute this doc. This doc is licensed CC-BY-NC-ND. The "NC-ND" part of the license means no commsrcial use and NO DERIVATIVES. Derivatives include: HTML, PDF, edoc, mobi, Kindle or other "typeset" versions. You cannot create derivatives.
+
+include::glossary.asciidoc[]
+
+include::01what-is.asciidoc[]
+
+include::02intro.asciidoc[]
+
+include::03clients.asciidoc[]
+
+include::04keys-addresses.asciidoc[]
+
+include::05wallets.asciidoc[]
+
+include::06transactions.asciidoc[]
+
+include::07smart-contracts-solidity.asciidoc[]
+
+include::08smart-contracts-vyper.asciidoc[]
+
+include::09smart-contracts-security.asciidoc[]
+
+include::10tokens.asciidoc[]
+
+include::11oracles.asciidoc[]
+
+include::12dapps.asciidoc[]
+
+include::13evm.asciidoc[]
+
+include::14consensus.asciidoc[]
+
+[appendix]
+include::appdx-standards-sip-src.asciidoc[]
+
+[appendix]
+include::appdx-evm-opcodes-gas.asciidoc[]
+
+[appendix]
+include::appdx-dev-tools.asciidoc[]
+
+[appendix]
+include::appdx-web3js-tutorial.asciidoc[]
+
+[index]
+== Index
